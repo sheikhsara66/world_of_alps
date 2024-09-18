@@ -1,0 +1,73 @@
+.shop{
+    background-color: rgba(243, 241, 238, 0.89);
+    display: block;
+    padding: 10px ; 
+}
+.shop h4{
+    margin: 0;
+}
+.sale{
+    background-color: rgb(58, 58, 58);
+    color: rgb(180, 182, 184);
+    display: block;
+    padding: 10px;
+}
+.sale p{
+    margin: 0;
+}
+.doel-content p{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 52.32px;
+}
+.doel-content span{
+    font-weight: 700;
+    font-size: 25px;
+}
+.navbar-collapse{
+    justify-content: center;
+}
+
+.back-pic{
+    background-image: url(../images/BAC-PIC.png);
+    height: 1500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.align-items-center {
+    align-items: center !important;
+    height: 500px;
+}
+
+.collection p{
+    font-size: 16px;
+    font-weight: 500;
+    width: 500px;
+    
+}
+.cart{
+    width: 20px;
+}
+.background{
+    background-image: url(../images/background.png);
+    color: whitesmoke;
+    height: 446px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.background h3{
+    margin-bottom: 30px;
+}
+.background a{
+    text-decoration: none;
+    color: rgb(9, 9, 9);
+    background-color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 10px;
+}
+
